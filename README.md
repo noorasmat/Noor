@@ -23,10 +23,9 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - Connecting with like-minded professionals in AI and machine learning.
 
 #### 📫 Get in Touch:
-- [LinkedIn](www.linkedin.com/in/noor-asmat-964a4787)
-- [Email](noorisyed.cs@gmail.com)
-- [Twitter](your-twitter-url)
-- [Blog/Website](your-website-url)
+- Email: noorisyed.cs@gmail.com
+- Linkedin: https://www.linkedin.com/in/noor-asmat-964a4787/ 
+
 
 ---
 
