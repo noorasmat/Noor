@@ -19,7 +19,7 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - **Frameworks**: Transformers, CNNs, GANs, Stable Diffusion, AUtoencoder
 
 #### 🌱 Always Learning:
-- Exploring the latest in **few-shot learning** and **data augmentation techniques**.
+- Exploring the latest in **Generative AI for Imaging and Text**.
 - Connecting with like-minded professionals in AI and machine learning.
 
 #### 📫 Get in Touch:
@@ -27,6 +27,3 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - Linkedin: https://www.linkedin.com/in/noor-asmat-964a4787/ 
 
 
----
-
-Feel free to customize it further with your personal links and specific details!
