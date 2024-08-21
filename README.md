@@ -20,9 +20,8 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - Libraries: Sci-kit Learn, XGBoost
 - 🤖 **Deep Learning & NLP:**
 - Neural Networks: ANN, RNN, CNN, LSTM, GRU
-- Transformers: GPT, BERT, RASA, Hugging Face
+- Transformers: GPT, BERT, Hugging Face
 - Frameworks: TensorFlow, Keras, PyTorch
-- Speech Recognition: DeepSpeech
 - 💻 **Programming Languages & Frameworks:**
 - Languages: Python (Pandas, NumPy, Matplotlib, Plotly, Seaborn, Sklearn), SQL, HTML/CSS/JS
 - Frameworks: Flask, Streamlit, FastAPI
@@ -34,11 +33,9 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - Kafka: Producers, Consumers, Brokers, Topics, Zookeeper, Kafka Cluster Manager
 - 📊 **Data Analysis & Visualization:**
 - Tools: Power BI (ETL, Reports, Dashboards)
-- 🤖 **Web Scraping & Automation:**
-- Libraries: BeautifulSoup (BS4), Requests, Scrapy, Selenium
 - 🛠️ **Operating Systems, Editors & IDEs:**
 - OS: Linux, Windows
-- Editors/IDEs: VIM, Sublime, PyCharm, Jupyter, Bash
+- Editors/IDEs: VIM, Sublime, PyCharm, Jupyter
 
 
 #### 🌱 Always Learning:
