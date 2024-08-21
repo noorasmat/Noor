@@ -10,13 +10,36 @@ I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI f
 - **Land Cover Scene Classification**: Leveraging CNNs for accurate image segmentation.
 
 #### 🎓 Background:
-- **PhD Candidate** specializing in advanced machine learning concepts.
+- **MS-CS, with specialization in Data Science, PhD Candidate** specializing in advanced machine learning concepts.
 - Completed projects on **Sentiment Analysis** (using Amazon reviews data) and **Transformer-based chatbots** for customer service.
 
 #### 💻 Tech Stack:
-- **Languages**: Python, TensorFlow, Keras, PyTorch, Numpy, Pandas, Scipy, Matplotlib, Sklearn
-- **Tools**: Jupyter, Git, 
-- **Frameworks**: Transformers, CNNs, GANs, Stable Diffusion, AUtoencoder
+- 🌟 **Machine Learning & Data Science:**
+- Algorithms: Classification & Regression, Feature Scaling, Decision Boundaries, Principal Component Analysis (PCA), Clustering, SVM, Ensemble Methods, Decision
+- Trees
+- Libraries: Sci-kit Learn, XGBoost
+- 🤖 **Deep Learning & NLP:**
+- Neural Networks: ANN, RNN, CNN, LSTM, GRU
+- Transformers: GPT, BERT, RASA, Hugging Face
+- Frameworks: TensorFlow, Keras, PyTorch
+- Speech Recognition: DeepSpeech
+- 💻 **Programming Languages & Frameworks:**
+- Languages: Python (Pandas, NumPy, Matplotlib, Plotly, Seaborn, Sklearn), SQL, HTML/CSS/JS
+- Frameworks: Flask, Streamlit, FastAPI
+- Data Structures & Algorithms
+- ☁️ **Deployment & Cloud Computing:**
+- AWS: EC2, S3, Lambda, VPC, ELB
+- GCP: Vertex AI, BigQuery, AutoML, GCF
+- DevOps Tools: Git, Docker
+- Kafka: Producers, Consumers, Brokers, Topics, Zookeeper, Kafka Cluster Manager
+- 📊 **Data Analysis & Visualization:**
+- Tools: Power BI (ETL, Reports, Dashboards)
+- 🤖 **Web Scraping & Automation:**
+- Libraries: BeautifulSoup (BS4), Requests, Scrapy, Selenium
+- 🛠️ **Operating Systems, Editors & IDEs:**
+- OS: Linux, Windows
+- Editors/IDEs: VIM, Sublime, PyCharm, Jupyter, Bash
+
 
 #### 🌱 Always Learning:
 - Exploring the latest in **Generative AI for Imaging and Text**.
