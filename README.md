@@ -5,7 +5,8 @@
 I'm a passionate **Machine Learning Engineer** with a focus on **Generative AI for NLP and Imaging**. My experience in NLP spans various domains, from **Large Language Models (LLM), NLP, transformers, and Sentiment Analysis to building Transformer-based chatbots. In computer vision I have experience of Effective Feature learning through Autoencoders, synthetic data generation Using GAN, and image segmentation using the Unet model, leveraging both spectral-spatial features.**
 
 #### 🔬 Current Projects:
-- **Transformer-based chatbot for health care**: Developing Health care chatbot using a pre-trained transformer with LangChain.
+- **Transformer-based chatbot for PDF**: Developing chatbot using a pre-trained transformer with LangChain that can chat with PDF. [Deployed on Spaces]
+- **Transformer-based Research Assitant for Research Catelogue**: Developing chatbot using a pre-trained transformer with LangChain that can chat with PDF.  [Deployed on Spaces]
 - **Generative AI**: Creating synthetic datasets to enhance model training.
 - **Land Cover Scene Classification**: Leveraging CNNs for accurate image segmentation.
 
